@@ -1,0 +1,87 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מסגרות, מגנטים, ספלים וקנבסים עם הדפסת תמונות אישיות — כל מתנה מספרת סיפור שלך. חנות ערבית מקוונת עם חוויית קנייה חלקה ומשלוח עד הבית.
+
+### אודות
+https://example.com/about
+Miral Memories נולדה מאהבה לרגעים שנשארים לנצח. גלי את הערכים, החזון והתשוקה שמניעים אותנו ליצור מתנות אישיות עם הדפסת תמונות שנוגעות ישר ללב.
+
+### גלריית זיכרונות
+https://example.com/gallery
+גלריית זיכרונות מלאה ביצירות אמת — מסגרות מעוצבות, קנבסים, מגנטים עם תמונות אישיות ועוד. תני לעצמך השראה ובחרי את המתנה המושלמת שתרגש לנצח.
+
+### שאלות נפוצות
+https://example.com/faq
+איך מעלים תמונה? כמה זמן לוקחת הדפסת תמונות? מה כוללת המתנה האישית? כאן תמצאי תשובות לכל השאלות כדי שתזמיני בביטחון מלא ובלי הפתעות.
+
+### צור קשר
+https://example.com/contact
+יש לך רעיון למתנה אישית עם הדפסת תמונות? צרי קשר דרך וואטסאפ או הטופס שלנו ונעזור לך לעצב מסגרות, מגנטים ועוד — בדיוק כפי שדמיינת.
+
+### משלוח והחזרות
+https://example.com/delivery-returns
+הדפסת תמונות ומתנות אישיות מגיעות אליך בזהירות ובמהירות. קראי על זמני המשלוח, אריזת הפרימיום ומדיניות ההחזרות שלנו — כי שביעות רצונך היא העדיפות שלנו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Miral Memories
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Miral Memories
+
+### Category
+https://example.com/category/:slug
+מוצרים - Miral Memories
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
